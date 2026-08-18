@@ -36,3 +36,4 @@ The production database already has:
 - Add an OpenAI API key as a server-side environment variable
 - Add Terms, Privacy Policy, support email, and basic abuse/rate limiting
 - Add billing only after validating that early users want to pay
+Velaroq launch
